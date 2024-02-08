@@ -1,2 +1,0 @@
-let acai = "ruim"
-console.log("eu acho acai" + acai)

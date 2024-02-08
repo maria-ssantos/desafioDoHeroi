@@ -1,0 +1,8 @@
+criar uma variavel que armazene o nome do heroi
+criar uma variavel que armazene o nivel do heroi
+
+>>o nivel do heroi e baseado com sua quantidade de XP<<
+
+
+usar if, else if e else para verificar o nivel de acordo com o numero de XP
+usar operador logico 
